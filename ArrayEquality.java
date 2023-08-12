@@ -2,6 +2,8 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class ArrayEquality {
+
+    //This program is to check to arrays have same values or not..
     public static void main(String[] args) {
 
         Scanner s = new Scanner(System.in);
