@@ -40,4 +40,5 @@ public class ArmstrongNumber {
         }
 
     }
+// This is my comment added and I want to learn git bash cmds
 }
